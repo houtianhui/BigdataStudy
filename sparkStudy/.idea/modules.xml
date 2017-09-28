@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bijiaProject/bijiaProject.iml" filepath="$PROJECT_DIR$/bijiaProject/bijiaProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/scalaSduty/scalaSduty.iml" filepath="$PROJECT_DIR$/scalaSduty/scalaSduty.iml" />
       <module fileurl="file://$PROJECT_DIR$/sparkStudy.iml" filepath="$PROJECT_DIR$/sparkStudy.iml" />
     </modules>
   </component>

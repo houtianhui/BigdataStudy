@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@10.224.212.74" uuid="ea25b045-e33c-410f-b0ea-1770c8102ed0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>bjnoas</user-name>
+      <introspection-schemas>*:</introspection-schemas>
+    </data-source>
+    <data-source name="@localhost" uuid="5a8d7084-b3a0-4b6d-92e7-5da3cf964cc8">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="hive@localhost" uuid="8830d704-d297-460e-b07e-f7da605791a7">
+      <database-info product="MySQL" version="5.7.17" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="upper" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:hive</introspection-schemas>
+      <resolve-scope>hive:</resolve-scope>
+      <unqualified-resolve-schemas>hive:</unqualified-resolve-schemas>
+    </data-source>
+    <data-source name="@10.224.212.74 [2]" uuid="eee082f0-c067-4888-85e7-c18ef3ed0c16">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>bjnoas</user-name>
+    </data-source>
+    <data-source name="@localhost [2]" uuid="d0a45782-3f73-4fc6-b38a-26ea276cf021">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
